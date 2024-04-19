@@ -209,7 +209,22 @@ aside{
     background-color: rgb(104, 104, 104);
 }
 
+#video-do-corinthians{
+    padding: 5px;
+}
+#video-do-corinthians ul li a{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: black;
+    padding: 0px 0;
+}
 
+#video-do-corinthians{
+    width: 270px;
+    height: 300px;
+    margin: 5px auto;
+}
 /*FOOTER*/
 footer{
     display: flex;
